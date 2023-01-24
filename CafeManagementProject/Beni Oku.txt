@@ -1,0 +1,5 @@
+Merhaba proje ile ilgili dokümantasyon word dosyasında genel olarak projeden bahsettim. Projeyi çalıştırabilmeniz için ProjeDB isimli veritabanı dosyasını eklemeniz ve 
+Visual Studio aracılığıyla projenin bu veritabanı ile bağlantısı kontrol etmeniz gerekmektedir. Eğer bu kontrolü gerçekleştirmişseniz proje çalışmaya hazır demektir.
+Projede yönetici paneline erişebilmek için kullanıcı adı:"ADMIN" şifre:"1234" şeklinde giriş yapmanız gerekmektedir. Sipariş yönetim ekranına erişebilmek için 
+kullanıcı adı:"Ali" şifre:"4950" şeklinde giriş yapmanız gerekmektedir. Yönetici paneli yardımıyla veya veritabanına direk müdahale ile admin ve personel bilgilerinde
+değişiklik yapabilirsiniz. Vaktinizi ayırıp incelediğiniz için teşekkür ederim
